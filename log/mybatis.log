@@ -1,0 +1,358 @@
+2017-08-12 09:25:09,798 - ==>  Preparing: select * from laocheng_demo where tid=1 
+ 2017-08-12 09:25:09,945 - ==> Parameters: 
+ 2017-08-12 09:25:09,991 - <==      Total: 1
+ 2017-08-12 09:25:09,992 - ==>  Preparing: select COLUMN_NAME,COLUMN_KEY from information_schema.columns where TABLE_NAME='laocheng_demo' and TABLE_SCHEMA='test' 
+ 2017-08-12 09:25:09,992 - ==> Parameters: 
+ 2017-08-12 09:25:09,999 - <==      Total: 4
+ 2017-08-12 09:42:06,171 - ==>  Preparing: select * from laocheng_demo where id = ? limit 0,1 
+ 2017-08-12 09:42:06,207 - ==> Parameters: 1(Integer)
+ 2017-08-12 09:42:35,788 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 09:42:35,821 - ==> Parameters: 1(Integer)
+ 2017-08-12 09:42:35,851 - <==      Total: 1
+ 2017-08-12 09:43:18,783 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 09:43:18,814 - ==> Parameters: 1(Integer)
+ 2017-08-12 09:43:18,874 - <==      Total: 1
+ 2017-08-12 09:43:18,879 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 09:43:18,879 - ==> Parameters: 1(Integer)
+ 2017-08-12 09:43:18,880 - <==      Total: 1
+ 2017-08-12 09:44:22,399 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 09:44:22,474 - ==> Parameters: 1(Integer)
+ 2017-08-12 09:44:22,522 - <==      Total: 1
+ 2017-08-12 09:44:22,553 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 09:44:22,554 - ==> Parameters: 1(Integer)
+ 2017-08-12 09:44:22,556 - <==      Total: 1
+ 2017-08-12 09:48:22,659 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 09:48:22,692 - ==> Parameters: 1(Integer)
+ 2017-08-12 09:48:22,725 - <==      Total: 1
+ 2017-08-12 10:05:29,093 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:05:29,125 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:05:29,156 - <==      Total: 1
+ 2017-08-12 10:05:29,160 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:05:29,160 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:05:29,163 - <==      Total: 1
+ 2017-08-12 10:22:35,442 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:22:35,487 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:22:35,514 - <==      Total: 1
+ 2017-08-12 10:22:35,518 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:22:35,518 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:22:35,519 - <==      Total: 1
+ 2017-08-12 10:22:57,769 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:22:57,802 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:22:57,839 - <==      Total: 1
+ 2017-08-12 10:24:30,740 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:24:30,774 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:24:30,816 - <==      Total: 1
+ 2017-08-12 10:26:32,920 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:26:32,955 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:26:32,987 - <==      Total: 1
+ 2017-08-12 10:27:35,206 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:27:35,243 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:27:35,278 - <==      Total: 1
+ 2017-08-12 10:28:51,261 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:28:51,298 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:28:51,337 - <==      Total: 1
+ 2017-08-12 10:31:46,540 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:31:46,586 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:31:46,621 - <==      Total: 1
+ 2017-08-12 10:36:03,331 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:36:03,458 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:36:03,542 - <==      Total: 1
+ 2017-08-12 10:37:49,050 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:37:49,082 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:37:49,125 - <==      Total: 1
+ 2017-08-12 10:39:32,251 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:39:32,287 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:39:32,319 - <==      Total: 1
+ 2017-08-12 10:39:52,637 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:39:52,673 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:39:52,705 - <==      Total: 1
+ 2017-08-12 10:46:52,101 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:46:52,135 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:46:52,181 - <==      Total: 1
+ 2017-08-12 10:49:17,425 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:49:17,457 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:49:17,497 - <==      Total: 1
+ 2017-08-12 10:51:12,970 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:51:13,004 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:51:13,052 - <==      Total: 1
+ 2017-08-12 10:51:34,218 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:51:34,252 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:51:34,287 - <==      Total: 1
+ 2017-08-12 10:53:07,054 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:53:07,098 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:53:07,139 - <==      Total: 1
+ 2017-08-12 10:59:01,652 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 10:59:01,685 - ==> Parameters: 1(Integer)
+ 2017-08-12 10:59:01,721 - <==      Total: 1
+ 2017-08-12 11:01:28,459 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 11:01:28,491 - ==> Parameters: 1(Integer)
+ 2017-08-12 11:01:28,524 - <==      Total: 1
+ 2017-08-12 11:02:42,825 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 11:02:42,873 - ==> Parameters: 1(Integer)
+ 2017-08-12 11:02:42,905 - <==      Total: 1
+ 2017-08-12 11:04:33,612 - ==>  Preparing: update laocheng_demo set i=1 
+ 2017-08-12 11:04:33,659 - ==> Parameters: 
+ 2017-08-12 11:04:33,745 - <==    Updates: 12
+ 2017-08-12 11:08:27,751 - ==>  Preparing: update laocheng_demo set i=1 
+ 2017-08-12 11:08:27,791 - ==> Parameters: 
+ 2017-08-12 11:08:27,869 - <==    Updates: 12
+ 2017-08-12 11:09:08,325 - ==>  Preparing: update laocheng_demo set i=1 
+ 2017-08-12 11:09:08,375 - ==> Parameters: 
+ 2017-08-12 11:09:08,427 - <==    Updates: 12
+ 2017-08-12 11:10:06,730 - ==>  Preparing: update laocheng_demo set i=1 
+ 2017-08-12 11:10:06,780 - ==> Parameters: 
+ 2017-08-12 11:10:06,853 - <==    Updates: 12
+ 2017-08-12 11:11:01,736 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 11:11:01,775 - ==> Parameters: 
+ 2017-08-12 11:11:01,811 - <==      Total: 12
+ 2017-08-12 11:11:25,896 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 11:11:25,941 - ==> Parameters: aaa(String), 123(Integer), 456(Integer)
+ 2017-08-12 11:11:26,035 - <==    Updates: 1
+ 2017-08-12 11:11:26,037 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 11:11:26,037 - ==> Parameters: 
+ 2017-08-12 11:11:26,062 - <==      Total: 1
+ 2017-08-12 11:11:26,066 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 11:11:26,066 - ==> Parameters: 
+ 2017-08-12 11:11:26,072 - <==      Total: 13
+ 2017-08-12 11:13:09,447 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 11:13:09,489 - ==> Parameters: aaa(String), 123(Integer), 456(Integer)
+ 2017-08-12 11:13:09,551 - <==    Updates: 1
+ 2017-08-12 11:13:09,554 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 11:13:09,554 - ==> Parameters: 
+ 2017-08-12 11:13:09,569 - <==      Total: 1
+ 2017-08-12 11:13:09,571 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 11:13:09,572 - ==> Parameters: 
+ 2017-08-12 11:13:09,576 - <==      Total: 14
+ 2017-08-12 11:17:46,076 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 11:17:46,125 - ==> Parameters: 
+ 2017-08-12 11:17:46,166 - <==      Total: 14
+ 2017-08-12 11:23:21,813 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 11:23:21,862 - ==> Parameters: 
+ 2017-08-12 11:23:21,885 - <==      Total: 14
+ 2017-08-12 13:12:46,024 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 13:12:46,130 - ==> Parameters: 1(Integer)
+ 2017-08-12 13:12:46,281 - <==      Total: 1
+ 2017-08-12 13:15:17,827 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 13:15:17,914 - ==> Parameters: 1(Integer)
+ 2017-08-12 13:15:17,961 - <==      Total: 1
+ 2017-08-12 13:24:19,100 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 13:24:19,137 - ==> Parameters: 1(Integer)
+ 2017-08-12 13:24:19,171 - <==      Total: 1
+ 2017-08-12 13:25:24,753 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-12 13:25:24,790 - ==> Parameters: 1(Integer)
+ 2017-08-12 13:25:24,816 - <==      Total: 1
+ 2017-08-12 13:25:42,319 - Could not get a databaseId from dataSource
+ java.sql.SQLException: Error setting driver on UnpooledDataSource. Cause: java.lang.ClassNotFoundException: Cannot find class: com.mysql.jdbc.Driver1
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.initializeDriver(UnpooledDataSource.java:221)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.doGetConnection(UnpooledDataSource.java:200)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.doGetConnection(UnpooledDataSource.java:196)
+	at org.apache.ibatis.datasource.unpooled.UnpooledDataSource.getConnection(UnpooledDataSource.java:93)
+	at org.apache.ibatis.datasource.pooled.PooledDataSource.popConnection(PooledDataSource.java:385)
+	at org.apache.ibatis.datasource.pooled.PooledDataSource.getConnection(PooledDataSource.java:89)
+	at org.apache.ibatis.mapping.VendorDatabaseIdProvider.getDatabaseProductName(VendorDatabaseIdProvider.java:81)
+	at org.apache.ibatis.mapping.VendorDatabaseIdProvider.getDatabaseName(VendorDatabaseIdProvider.java:65)
+	at org.apache.ibatis.mapping.VendorDatabaseIdProvider.getDatabaseId(VendorDatabaseIdProvider.java:52)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.databaseIdProviderElement(XMLConfigBuilder.java:301)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parseConfiguration(XMLConfigBuilder.java:116)
+	at org.apache.ibatis.builder.xml.XMLConfigBuilder.parse(XMLConfigBuilder.java:98)
+	at org.apache.ibatis.session.SqlSessionFactoryBuilder.build(SqlSessionFactoryBuilder.java:84)
+	at org.apache.ibatis.session.SqlSessionFactoryBuilder.build(SqlSessionFactoryBuilder.java:70)
+	at cn.lcfms.test.T.t2(T.java:42)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:47)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:44)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:271)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:70)
+	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:50)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:50)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:38)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:459)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:675)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:382)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:192)
+2017-08-12 13:40:18,090 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:40:18,130 - ==> Parameters: 
+ 2017-08-12 13:40:18,179 - <==      Total: 14
+ 2017-08-12 13:44:14,483 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:44:14,562 - ==> Parameters: 
+ 2017-08-12 13:44:14,607 - <==      Total: 14
+ 2017-08-12 13:46:13,634 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:46:13,720 - ==> Parameters: 
+ 2017-08-12 13:46:13,763 - <==      Total: 14
+ 2017-08-12 13:51:39,270 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:51:39,304 - ==> Parameters: 
+ 2017-08-12 13:51:39,350 - <==      Total: 14
+ 2017-08-12 13:53:25,171 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:53:25,216 - ==> Parameters: 
+ 2017-08-12 13:53:25,277 - <==      Total: 14
+ 2017-08-12 13:54:08,155 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:54:08,190 - ==> Parameters: 
+ 2017-08-12 13:54:08,228 - <==      Total: 14
+ 2017-08-12 13:54:50,389 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:54:50,422 - ==> Parameters: 
+ 2017-08-12 13:54:50,474 - <==      Total: 14
+ 2017-08-12 13:55:14,065 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:55:14,099 - ==> Parameters: 
+ 2017-08-12 13:55:14,134 - <==      Total: 14
+ 2017-08-12 13:59:09,597 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:59:09,630 - ==> Parameters: 
+ 2017-08-12 13:59:09,673 - <==      Total: 14
+ 2017-08-12 13:59:42,073 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:59:42,111 - ==> Parameters: 
+ 2017-08-12 13:59:42,150 - <==      Total: 14
+ 2017-08-12 13:59:51,308 - ==>  Preparing: select * from laocheng_demo 
+ 2017-08-12 13:59:51,342 - ==> Parameters: 
+ 2017-08-12 13:59:51,383 - <==      Total: 14
+ 2017-08-12 14:39:45,059 - ==>  Preparing: insert into laocheng_laocheng_demo (`s`) values (?) 
+ 2017-08-12 14:39:45,099 - ==> Parameters: abc(String)
+ 2017-08-12 14:43:41,721 - ==>  Preparing: insert into laocheng_laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 14:43:41,759 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 14:44:39,778 - ==>  Preparing: insert into laocheng_laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 14:44:39,815 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 14:45:37,441 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 14:45:37,478 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 14:45:37,570 - <==    Updates: 1
+ 2017-08-12 14:45:37,571 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 14:45:37,572 - ==> Parameters: 
+ 2017-08-12 14:45:37,612 - <==      Total: 1
+ 2017-08-12 14:48:10,554 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 14:48:10,593 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 14:48:10,655 - <==    Updates: 1
+ 2017-08-12 14:48:10,657 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 14:48:10,658 - ==> Parameters: 
+ 2017-08-12 14:48:10,678 - <==      Total: 1
+ 2017-08-12 14:53:15,010 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 14:53:15,051 - ==> Parameters: abcde(String), 1(Integer), 2(Integer)
+ 2017-08-12 14:53:15,117 - <==    Updates: 1
+ 2017-08-12 14:53:15,118 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 14:53:15,119 - ==> Parameters: 
+ 2017-08-12 14:53:15,135 - <==      Total: 1
+ 2017-08-12 14:56:45,941 - ==>  Preparing: select COLUMN_NAME,COLUMN_KEY from information_schema.columns where TABLE_NAME='laocheng_demo' and TABLE_SCHEMA='test' 
+ 2017-08-12 14:56:45,980 - ==> Parameters: 
+ 2017-08-12 14:56:46,101 - <==      Total: 4
+ 2017-08-12 14:56:46,106 - ==>  Preparing: insert into laocheng_demo (`i`,`s`,`cid`) values (?,?,?) 
+ 2017-08-12 14:56:46,107 - ==> Parameters: 5(Integer), aaa(String), 45(Integer)
+ 2017-08-12 14:56:46,173 - <==    Updates: 1
+ 2017-08-12 14:56:46,173 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 14:56:46,174 - ==> Parameters: 
+ 2017-08-12 14:56:46,175 - <==      Total: 1
+ 2017-08-12 15:09:09,110 - ==>  Preparing: delete from laocheng_demo where tid=? 
+ 2017-08-12 15:09:09,152 - ==> Parameters: 1(Integer)
+ 2017-08-12 15:09:09,222 - <==    Updates: 1
+ 2017-08-12 15:34:50,609 - ==>  Preparing: select COLUMN_NAME,COLUMN_KEY from information_schema.columns where TABLE_NAME='laocheng_demo' and TABLE_SCHEMA='test' 
+ 2017-08-12 15:34:50,646 - ==> Parameters: 
+ 2017-08-12 15:34:50,683 - <==      Total: 4
+ 2017-08-12 15:34:50,687 - ==>  Preparing: delete from laocheng_demo where tid=? 
+ 2017-08-12 15:34:50,687 - ==> Parameters: 27(Integer)
+ 2017-08-12 15:34:50,689 - <==    Updates: 0
+ 2017-08-12 15:43:07,557 - ==>  Preparing: update laocheng_demo set `s`=?,`i`=?,`cid`=? where tid=? 
+ 2017-08-12 15:43:07,595 - ==> Parameters: abc(String), 123(Integer), 456(Integer), 50(Integer)
+ 2017-08-12 15:43:07,672 - <==    Updates: 1
+ 2017-08-12 16:02:15,197 - ==>  Preparing: select COLUMN_NAME,COLUMN_KEY from information_schema.columns where TABLE_NAME='laocheng_demo' and TABLE_SCHEMA='test' 
+ 2017-08-12 16:02:15,233 - ==> Parameters: 
+ 2017-08-12 16:02:15,271 - <==      Total: 4
+ 2017-08-12 16:02:15,275 - ==>  Preparing: update laocheng_demo set `i`=?,`s`=?,`cid`=? where tid=? 
+ 2017-08-12 16:02:15,276 - ==> Parameters: 5(Integer), aaa(String), 45(Integer), null
+ 2017-08-12 16:02:15,319 - <==    Updates: 0
+ 2017-08-12 16:03:05,038 - ==>  Preparing: select COLUMN_NAME,COLUMN_KEY from information_schema.columns where TABLE_NAME='laocheng_demo' and TABLE_SCHEMA='test' 
+ 2017-08-12 16:03:05,075 - ==> Parameters: 
+ 2017-08-12 16:03:05,137 - <==      Total: 4
+ 2017-08-12 16:03:05,141 - ==>  Preparing: update laocheng_demo set `i`=?,`s`=?,`cid`=? where tid=? 
+ 2017-08-12 16:03:05,142 - ==> Parameters: 5(Integer), aaa(String), 45(Integer), 50(Integer)
+ 2017-08-12 16:03:05,183 - <==    Updates: 1
+ 2017-08-12 16:03:41,675 - ==>  Preparing: select COLUMN_NAME,COLUMN_KEY from information_schema.columns where TABLE_NAME='laocheng_demo' and TABLE_SCHEMA='test' 
+ 2017-08-12 16:03:41,711 - ==> Parameters: 
+ 2017-08-12 16:03:41,806 - <==      Total: 4
+ 2017-08-12 16:03:41,811 - ==>  Preparing: update laocheng_demo set `i`=?,`s`=?,`cid`=? where tid=? 
+ 2017-08-12 16:03:41,812 - ==> Parameters: 5(Integer), aaa(String), 45(Integer), 50(Integer)
+ 2017-08-12 16:03:41,862 - <==    Updates: 1
+ 2017-08-12 16:11:24,790 - ==>  Preparing: select count(1) as count from laocheng_demo 
+ 2017-08-12 16:11:24,829 - ==> Parameters: 
+ 2017-08-12 16:11:24,907 - <==      Total: 1
+ 2017-08-12 16:11:49,346 - ==>  Preparing: select count(1) as count from laocheng_demo 
+ 2017-08-12 16:11:49,377 - ==> Parameters: 
+ 2017-08-12 16:11:49,410 - <==      Total: 1
+ 2017-08-12 16:13:01,547 - ==>  Preparing: select count(1) as count from laocheng_demo 
+ 2017-08-12 16:13:01,579 - ==> Parameters: 
+ 2017-08-12 16:13:01,609 - <==      Total: 1
+ 2017-08-12 16:17:56,191 - ==>  Preparing: select count(1) as count from laocheng_demo 
+ 2017-08-12 16:17:56,226 - ==> Parameters: 
+ 2017-08-12 16:17:56,266 - <==      Total: 1
+ 2017-08-12 16:23:39,330 - ==>  Preparing: select cid,s from laocheng_demo where tid>? and s=? 
+ 2017-08-12 16:23:39,365 - ==> Parameters: 50(Integer), afdfsd(String)
+ 2017-08-12 16:23:39,431 - <==      Total: 10
+ 2017-08-12 16:25:44,605 - ==>  Preparing: select cid,s from laocheng_demo where tid>? and s=? limit 0,10 
+ 2017-08-12 16:25:44,643 - ==> Parameters: 50(Integer), afdfsd(String)
+ 2017-08-12 16:25:44,676 - <==      Total: 10
+ 2017-08-12 16:30:55,889 - ==>  Preparing: select cid,s from laocheng_demo where tid>? and s=? order by tid desc limit 0,10 
+ 2017-08-12 16:30:55,925 - ==> Parameters: 50(Integer), afdfsd(String)
+ 2017-08-12 16:30:55,955 - <==      Total: 10
+ 2017-08-12 16:32:44,681 - ==>  Preparing: select * from laocheng_demo a,laocheng_demochild b where a.tid=b.tid order by tid desc limit 0,10 
+ 2017-08-12 16:32:44,717 - ==> Parameters: 
+ 2017-08-12 16:33:10,271 - ==>  Preparing: select * from laocheng_demo a,laocheng_demochild b where a.cid=b.cid order by a.tid desc limit 0,10 
+ 2017-08-12 16:33:10,306 - ==> Parameters: 
+ 2017-08-12 16:33:10,353 - <==      Total: 10
+ 2017-08-12 16:41:54,208 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 16:41:54,245 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 16:41:54,309 - <==    Updates: 1
+ 2017-08-12 16:41:54,312 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 16:41:54,312 - ==> Parameters: 
+ 2017-08-12 16:41:54,332 - <==      Total: 1
+ 2017-08-12 16:42:07,044 - ==>  Preparing: insert into nulldemo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 16:42:07,083 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 16:43:22,496 - ==>  Preparing: insert into demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 16:43:22,530 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 16:43:47,353 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 16:43:47,392 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 16:43:47,451 - <==    Updates: 1
+ 2017-08-12 16:43:47,453 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 16:43:47,454 - ==> Parameters: 
+ 2017-08-12 16:43:47,477 - <==      Total: 1
+ 2017-08-12 16:55:39,956 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 16:55:40,001 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 16:55:40,068 - <==    Updates: 1
+ 2017-08-12 16:55:40,070 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 16:55:40,070 - ==> Parameters: 
+ 2017-08-12 16:55:40,088 - <==      Total: 1
+ 2017-08-12 16:55:57,198 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 16:55:57,237 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 16:55:57,302 - <==    Updates: 1
+ 2017-08-12 16:55:57,305 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 16:55:57,305 - ==> Parameters: 
+ 2017-08-12 16:55:57,321 - <==      Total: 1
+ 2017-08-12 22:56:08,907 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 22:56:08,964 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 22:56:09,191 - <==    Updates: 1
+ 2017-08-12 22:56:09,193 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 22:56:09,194 - ==> Parameters: 
+ 2017-08-12 22:56:09,213 - <==      Total: 1
+ 2017-08-12 22:56:54,089 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 22:56:54,132 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 22:56:54,171 - <==    Updates: 1
+ 2017-08-12 22:56:54,173 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 22:56:54,173 - ==> Parameters: 
+ 2017-08-12 22:56:54,192 - <==      Total: 1
+ 2017-08-12 23:02:44,018 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-12 23:02:44,057 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-12 23:02:44,122 - <==    Updates: 1
+ 2017-08-12 23:02:44,124 - ==>  Preparing: select last_insert_id() 
+ 2017-08-12 23:02:44,124 - ==> Parameters: 
+ 2017-08-12 23:02:44,151 - <==      Total: 1
+ 2017-08-13 10:16:14,923 - ==>  Preparing: insert into laocheng_demo (`s`,`i`,`cid`) values (?,?,?) 
+ 2017-08-13 10:16:14,963 - ==> Parameters: abc(String), 1(Integer), 2(Integer)
+ 2017-08-13 10:16:15,258 - <==    Updates: 1
+ 2017-08-13 10:16:15,259 - ==>  Preparing: select last_insert_id() 
+ 2017-08-13 10:16:15,260 - ==> Parameters: 
+ 2017-08-13 10:16:15,277 - <==      Total: 1
+ 

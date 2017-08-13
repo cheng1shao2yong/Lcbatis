@@ -1,0 +1,286 @@
+2017-08-09 15:09:02,548 - Logging initialized using 'class org.apache.ibatis.logging.slf4j.Slf4jImpl' adapter.
+ 2017-08-09 15:09:02,596 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:09:02,607 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:02,608 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:02,608 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:02,608 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:02,655 - Opening JDBC Connection
+ 2017-08-09 15:09:02,803 - Created connection 19717364.
+ 2017-08-09 15:09:02,804 - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@12cdcf4]
+ 2017-08-09 15:09:02,814 - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@12cdcf4]
+ 2017-08-09 15:09:02,814 - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@12cdcf4]
+ 2017-08-09 15:09:02,815 - Returned connection 19717364 to pool.
+ 2017-08-09 15:09:59,549 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:09:59,599 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:09:59,609 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:59,609 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:59,609 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:59,609 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:09:59,659 - Opening JDBC Connection
+ 2017-08-09 15:09:59,804 - Created connection 399931359.
+ 2017-08-09 15:09:59,804 - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:09:59,815 - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:09:59,815 - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:09:59,816 - Returned connection 399931359 to pool.
+ 2017-08-09 15:10:28,822 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:10:28,870 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:10:28,881 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:10:28,881 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:10:28,881 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:10:28,881 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:10:28,933 - Opening JDBC Connection
+ 2017-08-09 15:10:29,078 - Created connection 399931359.
+ 2017-08-09 15:10:29,078 - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:10:29,089 - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:10:29,089 - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:10:29,089 - Returned connection 399931359 to pool.
+ 2017-08-09 15:12:48,813 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:12:48,858 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:12:48,868 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:12:48,868 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:12:48,868 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:12:48,868 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:12:48,920 - Opening JDBC Connection
+ 2017-08-09 15:12:49,063 - Created connection 399931359.
+ 2017-08-09 15:12:49,063 - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:12:49,073 - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:12:49,074 - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:12:49,074 - Returned connection 399931359 to pool.
+ 2017-08-09 15:14:39,236 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:14:39,287 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:14:39,296 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:14:39,296 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:14:39,296 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:14:39,296 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:14:39,347 - Opening JDBC Connection
+ 2017-08-09 15:14:39,493 - Created connection 399931359.
+ 2017-08-09 15:14:39,493 - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:14:39,504 - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:14:39,505 - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:14:39,505 - Returned connection 399931359 to pool.
+ 2017-08-09 15:15:27,283 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:15:27,343 - Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+ 2017-08-09 15:15:27,353 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:15:27,353 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:15:27,353 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:15:27,353 - PooledDataSource forcefully closed/removed all connections.
+ 2017-08-09 15:15:27,405 - Opening JDBC Connection
+ 2017-08-09 15:15:27,550 - Created connection 399931359.
+ 2017-08-09 15:15:27,550 - Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:15:27,561 - Resetting autocommit to true on JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:15:27,561 - Closing JDBC Connection [com.mysql.jdbc.JDBC4Connection@17d677df]
+ 2017-08-09 15:15:27,561 - Returned connection 399931359 to pool.
+ 2017-08-09 15:20:42,487 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:20:42,502 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:20:42,524 - <==    Columns: id, s, i
+ 2017-08-09 15:20:42,525 - <==        Row: 1, aaa, 123
+ 2017-08-09 15:20:42,526 - <==      Total: 1
+ 2017-08-09 15:21:39,351 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:21:39,370 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:21:39,384 - <==      Total: 1
+ 2017-08-09 15:27:48,857 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:27:48,873 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:27:48,883 - <==      Total: 1
+ 2017-08-09 15:29:20,731 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:29:20,751 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:29:20,765 - <==      Total: 1
+ 2017-08-09 15:30:05,051 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:30:05,069 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:30:05,080 - <==      Total: 1
+ 2017-08-09 15:33:10,541 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:33:10,557 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:33:10,580 - <==      Total: 1
+ 2017-08-09 15:33:25,296 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:33:25,310 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:33:25,326 - <==      Total: 1
+ 2017-08-09 15:36:33,109 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:36:33,129 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:36:33,144 - <==      Total: 1
+ 2017-08-09 15:36:45,157 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:36:45,171 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:36:45,185 - <==      Total: 1
+ 2017-08-09 15:39:22,385 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:39:22,401 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:39:22,428 - <==      Total: 1
+ 2017-08-09 15:39:35,255 - ==>  Preparing: select * from demo where id = ? 
+ 2017-08-09 15:39:35,275 - ==> Parameters: 1(Integer)
+ 2017-08-09 15:39:35,297 - <==      Total: 1
+ 2017-08-09 16:14:30,422 - ==>  Preparing: select * from demo where id = ? limit 0,1 
+ 2017-08-09 16:14:30,441 - ==> Parameters: 1(Integer)
+ 2017-08-09 16:14:30,456 - <==      Total: 1
+ 2017-08-09 16:28:54,246 - ==>  Preparing: select * from demo where id = ? limit 0,1 
+ 2017-08-09 16:28:54,268 - ==> Parameters: 1(Integer)
+ 2017-08-09 16:28:54,277 - <==      Total: 1
+ 2017-08-09 16:32:12,550 - ==>  Preparing: select * from demo where id = ? limit 0,1 
+ 2017-08-09 16:32:12,573 - ==> Parameters: 1(Integer)
+ 2017-08-09 16:32:12,588 - <==      Total: 1
+ 2017-08-09 16:32:28,350 - ==>  Preparing: select * from demo where id = ? limit 0,1 
+ 2017-08-09 16:32:28,365 - ==> Parameters: 1(Integer)
+ 2017-08-09 16:32:28,385 - <==      Total: 1
+ 2017-08-09 16:32:37,356 - ==>  Preparing: select * from demo where id = ? limit 0,1 
+ 2017-08-09 16:32:37,377 - ==> Parameters: 1(Integer)
+ 2017-08-09 16:32:37,386 - <==      Total: 1
+ 2017-08-09 16:42:33,604 - ==>  Preparing: select * from demo order by id desc 
+ 2017-08-09 16:42:33,624 - ==> Parameters: 
+ 2017-08-09 16:43:41,894 - ==>  Preparing: select * from demo 
+ 2017-08-09 16:43:41,914 - ==> Parameters: 
+ 2017-08-09 16:45:41,237 - ==>  Preparing: select * from demo order by id desc 
+ 2017-08-09 16:45:41,262 - ==> Parameters: 
+ 2017-08-09 16:48:18,731 - ==>  Preparing: select * from demo order by id desc 
+ 2017-08-09 16:48:18,763 - ==> Parameters: 
+ 2017-08-09 16:48:18,776 - <==      Total: 1
+ 2017-08-09 16:49:18,782 - ==>  Preparing: select * from demo limit 0,1 order by id desc 
+ 2017-08-09 16:49:18,802 - ==> Parameters: 
+ 2017-08-09 16:49:43,074 - ==>  Preparing: select * from demo order by id desc limit 0,1 
+ 2017-08-09 16:49:43,095 - ==> Parameters: 
+ 2017-08-09 16:49:43,109 - <==      Total: 1
+ 2017-08-09 20:28:32,999 - ==>  Preparing: select * from demo order by id desc limit 0,1 
+ 2017-08-09 20:28:33,053 - ==> Parameters: 
+ 2017-08-09 20:30:18,759 - ==>  Preparing: select * from laocheng_demo order by id desc limit 0,1 
+ 2017-08-09 20:30:18,795 - ==> Parameters: 
+ 2017-08-09 20:30:34,065 - ==>  Preparing: select * from laocheng_demo order by tid desc limit 0,1 
+ 2017-08-09 20:30:34,102 - ==> Parameters: 
+ 2017-08-09 20:31:04,567 - ==>  Preparing: select * from laocheng_demo order by tid desc limit 0,1 
+ 2017-08-09 20:31:04,601 - ==> Parameters: 
+ 2017-08-09 20:31:04,643 - <==      Total: 1
+ 2017-08-09 20:43:03,900 - ==>  Preparing: delete laocheng_demo where tid>? 
+ 2017-08-09 20:43:03,955 - ==> Parameters: 15(Integer)
+ 2017-08-09 20:44:17,989 - ==>  Preparing: delete laocheng_demo where tid>? 
+ 2017-08-09 20:44:18,023 - ==> Parameters: 15(Integer)
+ 2017-08-09 20:44:44,199 - ==>  Preparing: delete from laocheng_demo where tid>? 
+ 2017-08-09 20:44:44,239 - ==> Parameters: 15(Integer)
+ 2017-08-09 20:44:44,492 - <==    Updates: 20
+ 2017-08-09 20:45:25,050 - ==>  Preparing: delete from laocheng_demo where tid>? 
+ 2017-08-09 20:45:25,088 - ==> Parameters: 15(Integer)
+ 2017-08-09 20:45:25,089 - <==    Updates: 20
+ 2017-08-09 20:46:20,422 - ==>  Preparing: delete from laocheng_demo where tid=? 
+ 2017-08-09 20:46:20,468 - ==> Parameters: 15(Integer)
+ 2017-08-09 20:46:20,480 - <==    Updates: 1
+ 2017-08-09 20:49:36,991 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 20:49:37,026 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 20:49:37,079 - <==    Updates: 1
+ 2017-08-09 20:52:55,551 - ==>  Preparing: select * from demo where id = ? limit 0,1 
+ 2017-08-09 20:52:55,626 - ==> Parameters: 1(Integer)
+ 2017-08-09 20:53:27,037 - ==>  Preparing: select * from laocheng_demo where id = ? limit 0,1 
+ 2017-08-09 20:53:27,090 - ==> Parameters: 1(Integer)
+ 2017-08-09 20:53:44,279 - ==>  Preparing: select * from laocheng_demo where tid = ? limit 0,1 
+ 2017-08-09 20:53:44,319 - ==> Parameters: 1(Integer)
+ 2017-08-09 20:53:44,358 - <==      Total: 1
+ 2017-08-09 20:55:04,071 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 20:55:04,105 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 20:55:04,106 - <==    Updates: 1
+ 2017-08-09 20:55:42,649 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 20:55:42,688 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 20:55:42,689 - <==    Updates: 1
+ 2017-08-09 20:55:42,690 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 20:55:42,690 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 20:55:42,696 - <==    Updates: 1
+ 2017-08-09 20:55:42,697 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 20:55:42,698 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 20:55:42,699 - <==    Updates: 1
+ 2017-08-09 21:02:09,893 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:02:09,933 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:02:09,935 - <==    Updates: 1
+ 2017-08-09 21:02:09,935 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:02:09,936 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:02:09,939 - <==    Updates: 1
+ 2017-08-09 21:02:09,939 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:02:09,940 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:02:09,941 - <==    Updates: 1
+ 2017-08-09 21:02:26,544 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:02:26,587 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:02:26,588 - <==    Updates: 1
+ 2017-08-09 21:02:26,589 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:02:26,591 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:02:26,592 - <==    Updates: 1
+ 2017-08-09 21:02:26,593 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:02:26,593 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:02:26,594 - <==    Updates: 1
+ 2017-08-09 21:03:07,389 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:03:07,492 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:03:07,494 - <==    Updates: 1
+ 2017-08-09 21:03:07,494 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:03:07,495 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:03:07,496 - <==    Updates: 1
+ 2017-08-09 21:03:07,497 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:03:07,497 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:03:07,498 - <==    Updates: 1
+ 2017-08-09 21:07:00,814 - ==>  Preparing: update laocheng_demo set `s`=?,`i`=? where tid=? 
+ 2017-08-09 21:07:00,854 - ==> Parameters: aaaaa(String), 1234567(Integer), 1(Integer)
+ 2017-08-09 21:07:00,906 - <==    Updates: 1
+ 2017-08-09 21:07:23,022 - ==>  Preparing: update laocheng_demo set `s`=?,`i`=? where tid=? 
+ 2017-08-09 21:07:23,063 - ==> Parameters: aaaaa(String), 1234567(Integer), 1(Integer)
+ 2017-08-09 21:07:23,064 - <==    Updates: 1
+ 2017-08-09 21:09:29,934 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:09:30,003 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:09:30,005 - <==    Updates: 1
+ 2017-08-09 21:09:30,005 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:09:30,006 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:09:30,007 - <==    Updates: 1
+ 2017-08-09 21:09:30,008 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:09:30,008 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:09:30,009 - <==    Updates: 1
+ 2017-08-09 21:09:52,695 - ==>  Preparing: delete from laocheng_demo where tid=? 
+ 2017-08-09 21:09:52,733 - ==> Parameters: 52(Integer)
+ 2017-08-09 21:09:52,734 - <==    Updates: 1
+ 2017-08-09 21:11:32,609 - ==>  Preparing: delete from laocheng_demo where tid=? 
+ 2017-08-09 21:11:32,647 - ==> Parameters: 52(Integer)
+ 2017-08-09 21:11:32,649 - <==    Updates: 0
+ 2017-08-09 21:32:22,801 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:32:22,861 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:32:22,864 - <==    Updates: 1
+ 2017-08-09 21:32:22,866 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:32:22,867 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:32:22,868 - <==    Updates: 1
+ 2017-08-09 21:32:22,869 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:32:22,869 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:32:22,884 - <==    Updates: 1
+ 2017-08-09 21:32:22,945 - ==>  Preparing: delete from laocheng_demo where tid=? 
+ 2017-08-09 21:32:22,945 - ==> Parameters: 52(Integer)
+ 2017-08-09 21:32:22,946 - <==    Updates: 0
+ 2017-08-09 21:34:19,136 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:19,181 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:19,213 - <==    Updates: 1
+ 2017-08-09 21:34:19,215 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:19,216 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:19,217 - <==    Updates: 1
+ 2017-08-09 21:34:19,217 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:19,218 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:19,219 - <==    Updates: 1
+ 2017-08-09 21:34:37,383 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:37,431 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:37,433 - <==    Updates: 1
+ 2017-08-09 21:34:37,435 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:37,436 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:37,437 - <==    Updates: 1
+ 2017-08-09 21:34:37,438 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:37,439 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:37,440 - <==    Updates: 1
+ 2017-08-09 21:34:41,528 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:41,563 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:41,567 - <==    Updates: 1
+ 2017-08-09 21:34:41,575 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:41,577 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:41,579 - <==    Updates: 1
+ 2017-08-09 21:34:41,579 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:41,580 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:41,581 - <==    Updates: 1
+ 2017-08-09 21:34:52,050 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:52,090 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:52,092 - <==    Updates: 1
+ 2017-08-09 21:34:52,095 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:52,096 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:52,097 - <==    Updates: 1
+ 2017-08-09 21:34:52,098 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:34:52,098 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:34:52,100 - <==    Updates: 1
+ 2017-08-09 21:35:14,282 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:35:14,322 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:35:14,324 - <==    Updates: 1
+ 2017-08-09 21:35:14,327 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:35:14,330 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:35:14,331 - <==    Updates: 1
+ 2017-08-09 21:35:14,332 - ==>  Preparing: insert into laocheng_demo (`s`,`i`) values (?,?) 
+ 2017-08-09 21:35:14,333 - ==> Parameters: afdfsd(String), 123(Integer)
+ 2017-08-09 21:35:14,333 - <==    Updates: 1
+ 

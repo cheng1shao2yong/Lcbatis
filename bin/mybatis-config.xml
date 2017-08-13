@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+	<!-- 引入外部配置 -->
+	<properties resource="dbconfig.properties"></properties>
+	
+	<!-- 配置LOG4J日志 -->
+	<settings>
+		 <setting name="logImpl" value="LOG4J" />
+		 <!-- 设置获取数据库自动生成的主键 -->
+		 <setting name="useGeneratedKeys" value="true" />
+		 <!-- 设置null映射的值 -->
+		 <setting name="jdbcTypeForNull" value="NULL" />
+	</settings>
+	
+	<!-- 环境配置 -->
+	<environments default="development">
+		<environment id="development">
+			<transactionManager type="JDBC" />
+			<dataSource type="POOLED">
+				<property name="driver" value="${jdbc.driver}" />
+				<property name="url" value="${jdbc.url}" />
+				<property name="username" value="${jdbc.username}" />
+				<property name="password" value="${jdbc.password}" />
+				<property name="servicePackage" value="cn.lcfms.service.{table}Service"/>
+			    <property name="tablePrefix" value="laocheng_"/>
+			</dataSource>
+		</environment>
+	</environments>
+	
+</configuration>
