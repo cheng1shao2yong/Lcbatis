@@ -7,7 +7,7 @@
 **（重要：因为我小小修改了mybatis源代码的几个地方，所以Lcbatis.jar的导入的优先级必须要高于mybaits.jar，如果你没改过包名，默认是优先的）**
 1. 获取Service对象
 		Service service = Session.getService("表名");
-		//执行Service的方法，比如下面这句是根据主键id删除行
+1. 执行Service的方法，比如下面这句是根据主键id删除行
 		service.deleteById(27);
 
 ## 更多教程（可以将源代码下载下来看test包里的案例）
